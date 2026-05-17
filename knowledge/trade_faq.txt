@@ -1,0 +1,4 @@
+The export price of product A is $10 per unit.
+The minimum order quantity for product B is 500 pieces.
+Shipping time from Shanghai to New York is about 30 days.
+Payment terms: 30% deposit, 70% balance before shipment.
